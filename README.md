@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @anubhav-gang
-- 👀 I’m interested in Finance and Analytics
-- 🌱 I’m currently learning Machine Learning and AI
+Hi, I'm Anubhav 🤗
 
-<!---
-anubhav-gang/anubhav-gang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+About Me
+Aspiring Financial Analyst 📊, I Love coding and building new Insightful Stuffs ⚡, When Offline I Read 📚 and Play Sports 🤾‍♂️
