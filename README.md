@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anubhav Gang
-- 👀 I’m interested in Blockchain, Machaine Learning
+- 👀 I’m interested in Blockchain, Machine Learning
 - 🌱 I’m currently working on Virtual Assistant Tool using Python
 
 <!---
